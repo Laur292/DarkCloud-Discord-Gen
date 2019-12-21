@@ -1,3 +1,7 @@
+#Creators
+
+- Made by DarkCloud Team 
+
 # Setup
 
 1. Get node.js - `https://nodejs.org/en/`
@@ -12,8 +16,8 @@
 # Config Explaination
 
 1. Token - bot token from `https://discordapp.com/developers/applications/`
-2. Prefix - Don't need to explain
-3. status - Status that bot displays, see: https://imgur.com/a/vhneQN4
+2. Prefix - Don't need to explain :)
+3. status - Status that bot displays
 4. Cooldown - Cooldown between generating alts IN MINUTES
 
 # Modifications
